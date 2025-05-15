@@ -1,0 +1,14 @@
+1. Create a to-do list application that allows users to register and log in. 
+Users should be able to add, edit, and delete tasks. 
+The app should send reminders for tasks before their due dates. 
+Tasks can be categorized by priority and tags.
+
+
+2. Develop an online bookstore where users can browse books by genre and author. 
+Users should be able to add books to a shopping cart and checkout securely. 
+The system must support user registration, login, and order history tracking. 
+Implement an admin dashboard to manage inventory and orders.
+
+3. Create an event management platform where organizers can create and promote events. 
+Attendees should be able to register, buy tickets, and receive event updates. 
+Include a calendar view and reminder notifications for upcoming events.
