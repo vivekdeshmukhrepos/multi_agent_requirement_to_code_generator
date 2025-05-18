@@ -21,13 +21,13 @@ The app uses the following autonomous agents powered by OpenAI:
 - Persona: Senior software analyst.
 
 ### 2. **User Story Agent**
-- Role: Converts clarified requirements into 8 user stories.
+- Role: Converts clarified requirements into 8 user stories. (Change 8 user stories to the number you want to generate)
 - Output includes acceptance criteria in **Given/When/Then** format.
 - Persona: Product Owner.
 
 ### 3. **CodeGen Agent**
 - Role: Converts each user story into a jQuery code snippet.
-- Persona: Senior jQuery Developer.
+- Persona: Senior jQuery Developer. (Please chage jQuery to any other lnguage as per your requirement)
 
 ### 4. **Aggregator Agent**
 - Role: Merges all generated code snippets into a single, logical file.
@@ -40,7 +40,7 @@ The app uses the following autonomous agents powered by OpenAI:
 Clone the repo and install the dependencies:
 
 ```
-git clone https://github.com/your-username/multi-agent-codegen.git
+git clone https://github.com/vivekdeshmukhrepos/multi_agent_requirement_to_code_generator
  
 pip install -r requirements.txt
 ```

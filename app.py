@@ -164,7 +164,7 @@ async def main():
     st.title("Multi-Agent | Requirements to Code Generator")
     st.write("Provide your application requirements, Agents will generate clarified requirements, break those into user stories, and generate a sample code.")
 
-    OPEN_AI_KEY = "skA"  # Replace with actual key
+    OPEN_AI_KEY = "OPEN_AI_KEY"  # Replace with actual key
     MODEL_ID = "gpt-4"
 
     kernel = Kernel()
